@@ -1,0 +1,8 @@
+# Secretos: nunca se suben al repo
+.env
+scripts/tokens/
+*.log
+
+# Python
+__pycache__/
+*.pyc
